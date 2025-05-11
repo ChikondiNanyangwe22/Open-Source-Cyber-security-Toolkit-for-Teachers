@@ -1,0 +1,75 @@
+1. Foundational Learning Platforms
+
+Interactive Labs & Courses
+
+TryHackMe (Beginner-friendly rooms)
+🔗 https://tryhackme.com
+Recommended Path: "Complete Beginner" → "Jr. Penetration Tester"
+Class Activity: Have students complete the "Intro to Ethical Hacking" room together.
+
+Hack The Box (HTB Academy)
+🔗 https://academy.hackthebox.com
+Free Modules: "Introduction to Cybersecurity" & "Linux Fundamentals"
+
+Cybrary (Career paths + hands-on labs)
+🔗 https://www.cybrary.it
+Key Course: "Ethical Hacking and Penetration Testing" (Free tier available)
+
+Capture The Flag (CTF) Practice
+OverTheWire Bandit (Linux command-line challenges)
+🔗 https://overthewire.org/wargames/bandit
+Perfect for: Absolute beginners learning Linux for security.
+
+picoCTF (Student-friendly CTF)
+🔗 https://picoctf.org
+Class Use: Run a mini-CTF competition with pre-selected challenges.
+
+2. Career Exploration Resources
+Job Role Breakdowns
+CyberSeek Career Pathway
+🔗 https://www.cyberseek.org/pathway.html
+Interactive Tool: Shows salary ranges, demand, and progression paths.
+
+NICE Framework (NIST)
+🔗 https://www.nist.gov/itl/applied-cybersecurity/nice/resources
+Class Activity: Match student interests to roles (e.g., "Do you prefer puzzles? → Pen Tester").
+
+Certification Guides
+Certified Ethical Hacker (CEH) Overview
+🔗 https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh
+Discussion: Compare CEH vs. OSCP (see next).
+
+Offensive Security Certifications (OSCP, PEN-200)
+🔗 https://www.offensive-security.com
+Key Point: Hands-on exam requiring real-world exploitation.
+
+3. Engaging Videos & Documentaries
+"Ethical Hacking in 12 Hours" (freeCodeCamp)
+🔗 https://youtu.be/3Kq1MIfTWCE
+Perfect for: Flipped classroom assignments.
+
+"Day in the Life of a Pen Tester" (Cyber Mentor)
+🔗 https://youtu.be/7Y1zFyReEpU
+Career Insight: Shows report writing and client communication.
+
+"Hackers: Heroes of the Revolution" (PBS)
+🔗 https://www.pbs.org/video/the-hackers-1507069210
+Historical Context: How hacking evolved from phreaking to cybersecurity.
+
+4. Industry Reports & Trends
+(ISC)² Cybersecurity Workforce Report
+🔗 https://www.isc2.org/Research/Workforce-Study
+Stat to Highlight: "3.4 million cybersecurity jobs unfilled globally."
+
+Bureau of Labor Statistics (BLS) Data
+🔗 https://www.bls.gov/ooh/computer-and-information-technology/information-security-analysts.htm
+Career Stats: 35% job growth projected (2021-2031).
+
+5. Ethics & Legal Frameworks
+Computer Fraud and Abuse Act (CFAA) Summary
+🔗 https://www.eff.org/issues/cfaa
+Discussion: "Where’s the line between hacking and crime?"
+
+Bug Bounty Programs
+🔗 https://www.hackerone.com
+Case Study: How teens earned $1M+ reporting vulnerabilities.
