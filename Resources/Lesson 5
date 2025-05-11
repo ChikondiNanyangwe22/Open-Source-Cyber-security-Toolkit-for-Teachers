@@ -1,0 +1,66 @@
+1. Interactive Labs & Detection Tools
+VirusTotal (Scan suspicious files/URLs)
+🔗 https://www.virustotal.com
+Activity: Upload a harmless file (e.g., a text document) and analyze the report.
+
+Malwarebytes Junkware Removal Tool
+🔗 https://www.malwarebytes.com/junkwarert
+Demo: Show how it detects PUPs (Potentially Unwanted Programs).
+
+TheZoo Malware Database (For advanced learners)
+🔗 https://github.com/ytisf/theZoo
+Caution: Use in a controlled VM environment only.
+
+2. Videos & Visual Explanations
+"How Malware Works?" (NordVPN, 5 mins)
+🔗 https://youtu.be/rPeYvYEBAZU
+Key Lesson: Covers viruses, worms, and trojans with animations.
+
+"Fake Software Scams" (LinustechTips, 10 mins)
+🔗 https://youtu.be/4SBbABywl-I
+Example: How fake "Adobe Flash" installers deliver malware.
+
+"Living Off the Land (LotL) Attacks" (Black Hills Infosec)
+🔗 https://youtu.be/wT6xdhggs6I
+Advanced: How malware abuses legitimate tools like PowerShell.
+
+3. Real-World Case Studies
+Emotet Malware Analysis (CISA Alert)
+🔗 https://www.cisa.gov/news-events/cybersecurity-advisories/aa21-008a
+Discussion: How phishing emails spread malware.
+
+Fake Windows 11 Installers (BleepingComputer)
+🔗 https://www.bleepingcomputer.com/news/microsoft/fake-windows-11-installers-push-malware-through-google-ads/
+Key Point: Even Google Ads can be malicious.
+
+4. Safe Download Practices
+Official Software Sources Checklist
+
+Windows: Microsoft Store
+
+Mac: App Store
+
+Linux: Official repos (e.g., apt/dnf).
+Activity: Compare risks of downloading from cnet.com vs. official sites.
+
+How to Verify Checksums (E.g., SHA-256)
+🔗 https://www.howtogeek.com/363735/what-is-a-checksum-and-why-should-you-care/
+Demo: Verify a downloaded file (e.g., Ubuntu ISO).
+
+5. Malware Prevention Guides
+US-CERT Tips for Safe Downloads
+🔗 https://www.cisa.gov/secure-our-world
+Key Rules: Avoid pirated software, use ad-blockers.
+
+EFF’s "How to Avoid Malware"
+🔗 https://ssd.eff.org/en/module/how-avoid-malware
+Highlight: Browser extensions to block malicious scripts.
+
+7. Advanced Resources
+MITRE ATT&CK Framework (Malware techniques database)
+🔗 https://attack.mitre.org
+Example: Search "Trojan" to see real-world cases.
+
+Malware Analysis Tutorials (TryHackMe)
+🔗 https://tryhackme.com/module/malware-analysis
+Hands-on: Analyze a sample in a safe environment.
